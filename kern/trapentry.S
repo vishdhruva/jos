@@ -5,7 +5,7 @@
 #include <inc/trap.h>
 /* 
 
-TABLE FROM WIKIPEDIA : https://en.wikipedia.org/wiki/Interrupt_descriptor_table
+#include <kern/picirq.h>
 
 // INT_NUM 	Short Description PM[clarification needed]
 // 0x00 	Division by zero
